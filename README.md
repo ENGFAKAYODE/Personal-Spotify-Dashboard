@@ -9,17 +9,17 @@ To address this gap, this project integrates data extraction using the Spotify A
 
 
 # TABLE OF CONTENT
-
-1. Introduction
-2. Objective
-3. Goals
-4. Other Skills Demonstrated
-5. Data Overview
-6. Data Transformation
-7. Data Modelling
-8. Analysis
-9. Recommendations
-10. Conclusion
+- [INTRODUCTION](#INTRODUCTION)
+- [OBJECTIVE](#objective)
+- [GOALS](#goals)
+- [OTHER SKILLS DEMONSTRATED](#other-skills-demonstrated)
+- [DATA OVERVIEW](#data-OVERVIEW)
+- [DATA TRANSFORMATION](data-transformation)
+- [DATA MODELLING](#data-MODELLING)
+- [ANALYSIS](#analysis)
+- [DASHBOARD LINK](#dahboard-link)
+- [RECOMMENDATIONS](#recommendations)
+- [CONCLUSION](#conclusion)
 
 ---
 
@@ -379,6 +379,10 @@ This setup allows users to **explore their habits**, understand **listening patt
 
 ---
 
+# DASHBOARD LINK
+https://public.tableau.com/authoring/PersonalSpotifyDashboard/PersonalSpotifyDashboard#1
+
+---
 
 # RECOMMENDATIONS
 
