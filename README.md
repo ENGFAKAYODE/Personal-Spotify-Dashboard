@@ -44,7 +44,7 @@ The project aims to:
 
 The project is guided by the following technical, analytical, and visualization goals:
 
-Data Engineering Goals
+**Data Engineering Goals**
 
 - Automate the extraction of personal Spotify data using Python
 - Integrate multiple data sources into a unified dataset
@@ -52,14 +52,14 @@ Data Engineering Goals
 - Enrich records with additional metadata and media assets
 - Create reusable datasets for reporting and visualization
 
-Data Analysis Goals
+**Data Analysis Goals**
 
 - Identify most frequently played tracks, artists, and albums
 - Analyze listening trends over time (daily, monthly, yearly)
 - Understand peak listening periods and behavioural patterns
 - Track evolution of music taste over time
 
-Visualization Goals
+**Visualization Goals**
 
 - Build a fully interactive dashboard to enable intuitive exploration of listening history
 - Use track covers, album covers and artist images for visual storytelling
