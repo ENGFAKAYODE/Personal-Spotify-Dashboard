@@ -17,7 +17,7 @@ To address this gap, this project integrates data extraction using the Spotify A
 - [DATA TRANSFORMATION](data-transformation)
 - [DATA MODELLING](#data-MODELLING)
 - [ANALYSIS](#analysis)
-- [DASHBOARD LINK](#dahboard-link)
+- [DASHBOARD LINK](#dashboard-link)
 - [RECOMMENDATIONS](#recommendations)
 - [CONCLUSION](#conclusion)
 
