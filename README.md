@@ -1,5 +1,5 @@
 # Personal-Spotify-Dashboard
-<img width="1499" height="1199" alt="Personal Spotify Dashboard (2)" src="https://github.com/user-attachments/assets/8fd03532-d065-42ff-998b-5c3f439d8515" />
+<img width="1499" height="1199" alt="Personal Spotify Dashboard (4)" src="https://github.com/user-attachments/assets/965b6211-3074-4779-b035-aa14c8283fee" />
 
 # INTRODUCTION
 Every day, users generate large volumes of data simply by listening to music on streaming platforms. Platforms like Spotify capture detailed information about what users listen to, when they listen, and how their preferences evolve over time. This data has the potential to provide valuable insights into personal listening behaviour, favourite artists, and music consumption trends.
