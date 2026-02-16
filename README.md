@@ -381,7 +381,7 @@ This setup allows users to **explore their habits**, understand **listening patt
 ---
 
 # DASHBOARD LINK
-https://public.tableau.com/authoring/PersonalSpotifyDashboard/PersonalSpotifyDashboard#1
+https://public.tableau.com/app/profile/fakayode.emmanuel/viz/PersonalSpotifyDashboard/PersonalSpotifyDashboard#2
 
 ---
 
