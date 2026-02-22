@@ -326,8 +326,7 @@ This created a star schema model suitable for dashboard reporting.
 
 The full Python pipeline can be found in the Jupyter Notebook below:
 
-[[View Notebook](spotify-api-scraping.ipynb)
-](https://github.com/ENGFAKAYODE/Personal-Spotify-Dashboard/blob/main/Spotify%20API%20Scraping%20.ipynb)
+[[View Notebook](https://github.com/ENGFAKAYODE/Personal-Spotify-Dashboard/blob/main/Spotify%20API%20Scraping%20.ipynb)
 # ANALYSIS
 
 The dashboard provides deep insights into personal listening behaviour across two main pages: **History** and **Patterns**.
