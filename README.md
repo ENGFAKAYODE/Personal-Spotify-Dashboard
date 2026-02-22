@@ -17,6 +17,7 @@ To address this gap, this project integrates data extraction using the Spotify A
 - [DATA OVERVIEW](#data-OVERVIEW)
 - [DATA TRANSFORMATION](data-transformation)
 - [DATA MODELLING](#data-MODELLING)
+- [SCRAPING CODE](#scraping-code)
 - [ANALYSIS](#analysis)
 - [DASHBOARD LINK](#dashboard-link)
 - [RECOMMENDATIONS](#recommendations)
@@ -320,6 +321,12 @@ Contains:
 This created a star schema model suitable for dashboard reporting.
 
 ---
+
+# SCRAPING CODE
+
+The full Python pipeline can be found in the Jupyter Notebook below:
+
+[View Notebook](spotify_api_scraping.ipynb)
 
 # ANALYSIS
 
