@@ -79,7 +79,8 @@ Key analytical capabilities:
 - Identifying trends and patterns
 - Behavioural analysis
 - Ranking and performance analysis
-- Time-based analysis
+- Time-based analysis  
+  <br>
 
 **2. Problem Solving**
 
@@ -90,7 +91,8 @@ Several real-world challenges were solved during this project, including:
 - Handling incomplete or missing metadata
 - Automating image downloads and processing
 
-This demonstrates practical problem-solving ability in real data environments.
+This demonstrates practical problem-solving ability in real data environments.  
+<br>
 
 **3. End-to-End Project Development**
 
@@ -98,7 +100,7 @@ This project demonstrates full ownership of the data lifecycle:
 
 Data Collection → Data Engineering → Data Modelling → Analysis → Visualization
 
-This is the exact workflow used in professional data analyst and business intelligence roles.
+This is the exact workflow used in professional data analyst and business intelligence roles.  
 
 ---
 
@@ -106,6 +108,7 @@ This is the exact workflow used in professional data analyst and business intell
 
 The project uses two primary data sources:
 
+<br>
 
 **1. Spotify API Data**
 
@@ -124,12 +127,13 @@ Fields:
 - Album Cover
 - Artist Image
 - Spotify Links
-
+<br>
 
 **Saved Tracks**
 
 Includes all liked songs.
 
+<br>
 
 **Playlists**
 
@@ -138,6 +142,7 @@ Fields:
 - Tracks
 - Artists
 - Albums
+<br>
 
 **Top Tracks and Artists**
 
@@ -145,7 +150,7 @@ Across:
 - Short term
 - Medium term
 - Long term
-
+<br>
 
 ## Limitation of Spotify API
 
