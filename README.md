@@ -1,5 +1,8 @@
 # Personal-Spotify-Dashboard
-<img width="1499" height="1199" alt="Personal Spotify Dashboard image" src="https://github.com/user-attachments/assets/725c8583-df2e-47fc-b8d5-12a3e7112ca2" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/725c8583-df2e-47fc-b8d5-12a3e7112ca2" width="49%" />
+  <img src="https://github.com/user-attachments/assets/c216b4f5-b86a-4bc9-9038-4634f4d20727" width="49%" />
+</p>
 
 # INTRODUCTION
 Every day, users generate large volumes of data simply by listening to music on streaming platforms. Platforms like Spotify capture detailed information about what users listen to, when they listen, and how their preferences evolve over time. This data has the potential to provide valuable insights into personal listening behaviour, favourite artists, and music consumption trends.
@@ -326,7 +329,7 @@ This created a star schema model suitable for dashboard reporting.
 
 The full Python pipeline can be found in the Jupyter Notebook below:
 
-[[View Notebook](https://github.com/ENGFAKAYODE/Personal-Spotify-Dashboard/blob/main/Spotify%20API%20Scraping%20.ipynb)
+[View Notebook](https://github.com/ENGFAKAYODE/Personal-Spotify-Dashboard/blob/main/Spotify%20API%20Scraping%20.ipynb)
 # ANALYSIS
 
 The dashboard provides deep insights into personal listening behaviour across two main pages: **History** and **Patterns**.
@@ -392,7 +395,7 @@ This setup allows users to **explore their habits**, understand **listening patt
 ---
 
 # DASHBOARD LINK
-https://public.tableau.com/app/profile/fakayode.emmanuel/viz/PersonalSpotifyDashboard/PersonalSpotifyDashboard#2
+[Tableau](https://public.tableau.com/app/profile/fakayode.emmanuel/viz/PersonalSpotifyDashboard/PersonalSpotifyDashboard#2)
 
 ---
 
