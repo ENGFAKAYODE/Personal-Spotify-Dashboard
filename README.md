@@ -326,7 +326,7 @@ This created a star schema model suitable for dashboard reporting.
 
 The full Python pipeline can be found in the Jupyter Notebook below:
 
-[View Notebook](spotify_api_scraping.ipynb)
+[View Notebook](spotify-api-scraping.ipynb)
 
 # ANALYSIS
 
