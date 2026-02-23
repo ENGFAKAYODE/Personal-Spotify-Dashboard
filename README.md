@@ -331,6 +331,9 @@ This created a star schema model suitable for dashboard reporting.
 The full Python pipeline can be found in the Jupyter Notebook below:
 
 [View Notebook](https://github.com/ENGFAKAYODE/Personal-Spotify-Dashboard/blob/main/Spotify%20API%20Scraping%20.ipynb)
+
+---
+
 # ANALYSIS
 
 The dashboard provides deep insights into personal listening behaviour across two main pages: **History** and **Patterns**.
@@ -338,7 +341,7 @@ The dashboard provides deep insights into personal listening behaviour across tw
 ## History Page
 
 The History page focuses on individual listening activity and trends:
-
+  <img src="https://github.com/user-attachments/assets/68fce35e-ef9f-4f47-8f5c-4738244b7a43" width="49%" />
 ### Key Metrics and Trends
 - Displays KPIs and line charts for:
     - Listening Time
@@ -361,17 +364,19 @@ Clicking on a Track, Album, or Artist cover opens a detailed drilldown window wi
  - Number of plays
  - Number of tracks and albums
  - Music types (genres)
+<img width="1499" height="1199" alt="Personal Spotify Dashboard pop up" src="https://github.com/user-attachments/assets/04cc77e3-1627-413c-bcbe-01ef58d50f9a" />
 
 ### Spotify Integration
 -  From the window, clicking the cover or name opens the item directly in Spotify.
 - Top Tracks or Top Albums that displays on the window can also be clicked to play content immediately in Spotify.
 
-  <img src="https://github.com/user-attachments/assets/c216b4f5-b86a-4bc9-9038-4634f4d20727" width="49%" />
 
 ## Pattern Page
 
 The Pattern page analyzes listening habits and user persona:
 
+  <img src="https://github.com/user-attachments/assets/3f5288fc-89ca-4117-87b2-98f6dd132c8d" width="49%" />
+  
 ### User Persona Classification
 Each user is categorized into one of eight types:
 - Active Skipper
