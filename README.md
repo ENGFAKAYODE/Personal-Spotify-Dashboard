@@ -403,7 +403,7 @@ This setup allows users to **explore their habits**, understand **listening patt
 ---
 
 # DASHBOARD LINK
-[Tableau](https://public.tableau.com/app/profile/fakayode.emmanuel/viz/PersonalSpotifyDashboard/PersonalSpotifyDashboard#2)
+[Tableau](https://public.tableau.com/app/profile/fakayode.emmanuel/viz/PersonalSpotifyDashboard_17718364690990/PersonalSpotifyDashboard)
 
 ---
 
