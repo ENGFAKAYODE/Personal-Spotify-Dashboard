@@ -1,7 +1,7 @@
 # Personal-Spotify-Dashboard
 <p align="center">
   <img src="https://github.com/user-attachments/assets/68fce35e-ef9f-4f47-8f5c-4738244b7a43" width="49%" />
-  <img src="https://github.com/user-attachments/assets/3f5288fc-89ca-4117-87b2-98f6dd132c8d" width="49%" />
+  <img src="https://github.com/user-attachments/assets/07b8db4d-8b7f-4dd9-867a-93079c2bd950" width="49%" />
 </p>
 
 
@@ -350,6 +350,8 @@ The History page focuses on individual listening activity and trends:
     - Albums Played
 - Date range selector allows users to analyze different periods.
   Users can click the Date Range to access a slider or preset periods (e.g., last week, last month).
+  <img width="1186" height="326" alt="Personal Spotify Dashboard Filter only" src="https://github.com/user-attachments/assets/3eb81675-4409-4554-8b86-0a9227cace34" />
+
 
 ### Ranking and Tabs
 - Tracks, Albums, and Artists are ranked by total listening time.
@@ -367,7 +369,7 @@ Clicking on a Track, Album, or Artist cover opens a detailed drilldown window wi
 <img width="1499" height="1199" alt="Personal Spotify Dashboard pop up" src="https://github.com/user-attachments/assets/04cc77e3-1627-413c-bcbe-01ef58d50f9a" />
 
 ### Spotify Integration
--  From the window, clicking the cover or name opens the item directly in Spotify.
+- From the window, clicking the cover or name opens the item directly in Spotify.
 - Top Tracks or Top Albums that displays on the window can also be clicked to play content immediately in Spotify.
 
 
@@ -375,7 +377,7 @@ Clicking on a Track, Album, or Artist cover opens a detailed drilldown window wi
 
 The Pattern page analyzes listening habits and user persona:
 
-  <img src="https://github.com/user-attachments/assets/3f5288fc-89ca-4117-87b2-98f6dd132c8d" width="49%" />
+<img width="1480" height="1187" alt="Personal Spotify Pattern" src="https://github.com/user-attachments/assets/d98ebb6e-bccd-4685-9a9f-4c69af0e2758" />
   
 ### User Persona Classification
 Each user is categorized into one of eight types:
