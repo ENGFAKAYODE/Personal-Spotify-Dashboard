@@ -381,14 +381,18 @@ The Pattern page analyzes listening habits and user persona:
   
 ### User Persona Classification
 Each user is categorized into one of eight types:
-- Active Skipper
-- Replay Enthusiast
-- Indecisive Clicker
-- Intentional Selector
-- Power Skipper
-- Algorithm is my DJ
-- Auto Skipper
-- Passive Listener
+## User Behavior Classification Logic
+
+| Persona | Behavior Pattern (Continuous) | Simple Explanation |
+|---------|-----------------------------|------------------|
+| Active Skipper | Frequently uses forward/back controls and tends to skip tracks | Actively navigates through music, rarely sticking with one track |
+| Replay Enthusiast | Regularly goes back to replay tracks | Enjoys revisiting songs and listening multiple times |
+| Indecisive Clicker | Often selects tracks but skips them shortly after | Explores options but struggles to commit to a choice |
+| Intentional Selector | Consistently selects tracks and listens without skipping | Knows what they want and listens with purpose |
+| Power Skipper | Repeatedly uses forward controls at both start and end of tracks | Rapidly cycles through songs in search of something better |
+| Algorithm is my DJ | Relies on shuffle/autoplay and usually listens without skipping | Trusts the system to choose music and goes along with it |
+| Auto Skipper | Frequently skips tracks that are auto-played | Dislikes or filters out system-generated recommendations |
+| Passive Listener | Lets tracks play fully without interaction (no shuffle) | Listens passively without actively controlling playback |
 
 ### Heatmap Visualization
 - Displays listening intensity by hour, day, and month.
