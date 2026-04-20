@@ -383,7 +383,7 @@ The Pattern page analyzes listening habits and user persona:
 Each user is categorized into one of eight types:
 ## User Behavior Classification Logic
 
-| Persona | Behavior Pattern (Continuous) | Simple Explanation |
+| Persona | Behavior Pattern | Simple Explanation |
 |---------|-----------------------------|------------------|
 | Active Skipper | Frequently uses forward/back controls and tends to skip tracks | Actively navigates through music, rarely sticking with one track |
 | Replay Enthusiast | Regularly goes back to replay tracks | Enjoys revisiting songs and listening multiple times |
